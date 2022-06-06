@@ -1,5 +1,13 @@
 {
     "sites": [{
+            "key": "卧龙",
+            "name": "卧龙",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
+            "playUrl": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
+        },{
             "key": "乐多",
             "name": "乐多",
             "type": 1,
